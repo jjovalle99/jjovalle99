@@ -14,3 +14,4 @@
 - [**voxtral-dictate**](https://github.com/jjovalle99/voxtral-dictate) macOS dictation via Voxtral
 - [**slack-cli**](https://github.com/jjovalle99/slack-cli) slack for coding agents
 - [**notion-cli**](https://github.com/jjovalle99/notion-cli) notion for coding agents
+- [**discord-cli**](https://github.com/jjovalle99/discord-cli) discord for coding agents
